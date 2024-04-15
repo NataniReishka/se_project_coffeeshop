@@ -12,7 +12,7 @@
 }
 
 .about {
-  padding: 119px 80px 173px;
+  padding: 100px 80px 173px;
   background-color: #0a2850;
   color: #fff;
   display: flex;
@@ -29,10 +29,10 @@
   font-size: 44px;
   line-height: 52px;
   position: relative;
-  top: -19px;
 }
 
 .about__content {
+  margin-top: 19px;
   position: relative;
   z-index: 2;
   font-family: "Noto Serif", "Times New Roman", serif;
