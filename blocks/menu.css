@@ -2,7 +2,7 @@
   padding: 100px 0 100px;
   margin: 0;
   background-color: #fff;
-  background-image: url(/images/background_menu.svg);
+  background-image: url(../images/background_menu.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -34,37 +34,4 @@
   flex-wrap: wrap;
   gap: 100px;
   list-style-type: none;
-}
-
-.card {
-  width: 540px;
-}
-
-.card__title {
-  margin: 0 0 32px;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-}
-
-.card__list {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-}
-
-.card__list-item {
-  margin-bottom: 16px;
-  display: flex;
-  font-family: "Noto Serif", "Times New Roman", serif;
-}
-
-.card__list-item:last-child {
-  margin-bottom: 0;
-}
-
-.card__list-divider {
-  border-bottom: 1px solid black;
-  flex-grow: 1;
-  margin: 0 10px;
 }

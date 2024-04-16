@@ -13,7 +13,7 @@
   justify-content: space-between;
 }
 
-.footer__content_social {
+.footer__social {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
